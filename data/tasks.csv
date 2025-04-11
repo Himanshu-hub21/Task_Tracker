@@ -1,1 +1,5 @@
 Timestamp,Task Name,Assigned To,Status,Due Date
+Fri Apr 11 2025 15:42:03 GMT+0530 (India Standard Time),Design Homepage,A,Pending,Tue Apr 01 2025 00:00:00 GMT+0530 (India Standard Time)
+Fri Apr 11 2025 15:42:32 GMT+0530 (India Standard Time),Fix Login Bug,B,In Progress,Thu Apr 10 2025 00:00:00 GMT+0530 (India Standard Time)
+Fri Apr 11 2025 15:42:48 GMT+0530 (India Standard Time),Prepare Presentation	,C,Complete,Thu Apr 10 2025 00:00:00 GMT+0530 (India Standard Time)
+Fri Apr 11 2025 15:43:08 GMT+0530 (India Standard Time),Update Docs,A,Complete,Tue Apr 08 2025 00:00:00 GMT+0530 (India Standard Time)
